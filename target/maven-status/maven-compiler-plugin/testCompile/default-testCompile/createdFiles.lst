@@ -1,0 +1,7 @@
+generator/RicoRobotsBoardTest.class
+generator/TestStorage.class
+repl/REPLTest.class
+algorithm/AlgorithmTests.class
+generator/QuadrantTest.class
+repl/REPLCmdMapTest.class
+generator/BoardGeneratorTest.class

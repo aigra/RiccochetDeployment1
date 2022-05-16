@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: repl.REPLCmdMapTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.031 s <<< FAILURE! - in repl.REPLCmdMapTest
+repl.REPLCmdMapTest.testMapKeys  Time elapsed: 0.029 s  <<< ERROR!
+java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at repl.REPLCmdMapTest.testMapKeys(REPLCmdMapTest.java:15)
+
